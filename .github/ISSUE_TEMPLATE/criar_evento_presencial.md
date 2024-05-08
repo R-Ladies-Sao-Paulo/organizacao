@@ -44,6 +44,14 @@ Com essas informações, esses são os passos necessários:
 
 - [ ] Verificar no grupo: quem tem disponibilidade de contribuir com monitoria?
 
+- [ ] Gerenciar a lista de pessoas inscritas
+
+- [ ] Gerenciar a lista de pessoas que solicitaram auxílio
+
+- [ ] Enviar a lista de pessoas inscritas para o evento
+
+- [ ] Enviar email pré-evento, com informações relevantes
+
 
 ## Gugudadados
 
