@@ -1,7 +1,7 @@
 ---
 name: Criar evento online
 about: Tarefas para criar um novo evento online
-title: [ANO-MES-DIA] TEMA
+title: '[ANO-MES-DIA] TEMA'
 labels: 'eventos-online'
 assignees: ''
 
