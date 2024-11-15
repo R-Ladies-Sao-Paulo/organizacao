@@ -30,6 +30,8 @@ Com essas informações, esses são os passos necessários:
    - [ ] Instagram
    - [ ] Linkedin
    - [ ] Telegram
+   - [ ] Bluesky 🦋
+   - [ ] youtube
 
 - [ ] Checar se o evento está listado no formulário de feedback
 
